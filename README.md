@@ -8,6 +8,12 @@
 
 A modern task management application built with React, TypeScript, and Supabase. Features include user authentication, task creation, editing, completion tracking, and real-time updates.
 
+#Video of Implementation
+https://youtu.be/E8S5JkMCt-A?si=N6RAAf26nFis6Pbc
+
+#Live Deployment of App Link
+https://resonant-sopapillas-7f0aa0.netlify.app/login
+
 ## Database Setup
 
 ### Prerequisites
@@ -96,4 +102,3 @@ npm run preview
 ## Salary Expectations
 - Range: 25$ TO 30$ per hour
 
-*Note: Salary ranges may vary based on location, company size, and specific requirements.*
